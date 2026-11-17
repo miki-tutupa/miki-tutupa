@@ -1,100 +1,91 @@
-## Hey 👋, I'm Miki Corral!  
-  
+# Hey 👋, I'm Miki Corral!
 
-<a href="https://github.com/miki-tutupa" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/mikicorral" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/mikicorral" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/mikicorral" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>  
-  
+**Software Developer | SaaS & Ecommerce | AI**
 
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miki-tutupa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikicorral)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mikicorral)
+[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mikicorral)
 
+## About me
 
-### Glad to see you here!  
-👋 Hi there, I'm Miki Corral!
+Hi! I'm Miki, a software developer and entrepreneur based in Terrassa, Barcelona.
 
-I'm currently working at Shopworld focusing on SaaS Ecommerce solutions and software development. I have a strong technical background in C#, .NET, Vue, SQL, Redis, DevOps, systems administration and testing.
+I've been working in software development for many years, mainly with **C#, .NET, SQL and Vue.js**, building SaaS applications, ecommerce platforms and business integrations.
 
-Currently, I'm pursuing an Online Master's in Artificial Intelligence, Machine Learning, and Data Science. This advanced training helps me integrate cutting-edge AI techniques into my work, enhancing the value and efficiency of the projects I undertake.
+I'm primarily a backend developer, but I also work on frontend development, databases, infrastructure and DevOps. I like being involved in the whole process, from designing the architecture to getting everything running in production.
 
-My recent projects include:
+I have a **Master's degree in Artificial Intelligence, Machine Learning and Data Science**, and in recent years I've been applying that knowledge to real projects, particularly generative AI, LLMs and RAG.
 
--**Shopworld**: Developing and maintaining SaaS solutions for ecommerce platforms, focusing on creating seamless and scalable shopping experiences.
+I'm also increasingly using AI coding agents in my daily development workflow. It's changing the way I approach software development, especially when working on larger projects.
 
--**COREhub**: Engaged in software development, contributing to various applications that streamline and optimize business operations.
+## What I'm working on
 
--**Opinat**-: Developing and maintaining frontend questionaries for NPS.
+### [Shopworld Cloud](https://www.shopworld.cloud)
 
-I have certifications in:
+An ecommerce SaaS platform I've been developing and evolving for years.
 
--Testing .NET Applications with xUnit and Moq
+It covers most aspects of running an online store, including product management, orders, checkout, payments, inventory, integrations and administration.
 
--Developing Web Applications with ASP.NET Core MVC
+A big part of my current work involves improving its architecture, performance and scalability, as well as integrating it with external platforms such as ERP systems, marketplaces and other ecommerce services.
 
--.NET platform 5 and C# 9
+**Main technologies:** C#, ASP.NET, .NET, SQL Server, Entity Framework, Vue.js, Nuxt, Redis.
 
-These certifications have reinforced my skills in testing, web application development, and the latest .NET technologies.
+### [Aignis](https://www.aignis.net)
 
-While I'm not currently contributing to open source projects, I'm always eager to learn and share knowledge within the community. My long-term goal is to stay focused on my business endeavors, leveraging my expertise to drive innovation and growth.
+A SaaS platform focused on bringing generative AI to business data.
 
-I'm open to new opportunities and collaborations in the fields of software development and artificial intelligence. Let's connect and create something amazing together!  
-  
+It allows users to interact with their documents and databases using natural language, combining LLMs with RAG, embeddings and vector search.
 
-<br/>  
+The project includes document processing, knowledge bases, database integrations, conversational interfaces and multi-tenant architecture.
 
+**Main technologies:** .NET, OpenAI API, Redis Stack, SQLite, Vue.js.
 
-## Rapidfire  
-- 🔭 I’m currently working on [Shopworld Cloud](https://www.shopworld.cloud)  
-  
+## Languages and Tools
 
-- 🌱 I’m currently learning Artificial Intelligence, Machine Learning, and Data Science with R and Python  
-  
+**Backend & Databases**
 
-- ❓ Ask me about anything related to technical processes in e-commerce.  
-  
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 
-- 🥁 I am also a rock drummer, passionate about music and rhythm!  
-  
+**Frontend**
 
-<br/>  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
+**AI & Data Science**
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
-<a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-475569?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-475569?style=flat-square)
 
-<br/>  
+**DevOps & Infrastructure**
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## A few more things
+
+- Currently focused on Shopworld Cloud, Aignis and software integrations.
+- Interested in practical AI applications, coding agents and software architecture.
+- More comfortable with backend code and SQL than CSS, but I work with both.
+- I enjoy optimizing existing systems as much as building new ones.
+- 🥁 Rock drummer when I'm away from the keyboard.
+
+---
+
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/mikicorral) or check out my projects here on GitHub.
